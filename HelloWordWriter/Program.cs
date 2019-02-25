@@ -1,4 +1,5 @@
-﻿using SharedComponents;
+﻿using HelloWorldWriter;
+using SharedComponents;
 using System;
 using System.Reflection;
 
@@ -14,9 +15,13 @@ namespace HelloWordWriter
             {
                 Console.WriteLine(writer.GetHelloWorldString());
             }
-            else
+            else if (writer.IsHelloJupiterString(Assembly.GetExecutingAssembly().FullName))
             {
-                Console.WriteLine("Hello Generic World!");
+                Console.WriteLine(writer.GetHelloJupiterString());
+            }
+            else 
+            {
+                Console.WriteLine(CompletelyNewClass.ReturnSomethingRandom());
             }
         }
     }
