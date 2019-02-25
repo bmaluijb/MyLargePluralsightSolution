@@ -1,23 +1,22 @@
 ﻿using SharedComponents;
 using System;
-using System.Reflection;
 
-namespace HelloVenusWriter
+namespace ConsoleApp1
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             MyWriter writer = new MyWriter();
+   
 
-            if (writer.IsHelloVenusString(Assembly.GetExecutingAssembly().FullName))
-            {
-                Console.WriteLine(writer.GetHelloVenusString());
-            }
-            else
-            {
-                Console.WriteLine(writer.GetHelloGenericWorldString());
-            }
+            DateTime earthTime = DateTime.Now;
+            double earthPrintTime = earthTime.AddSeconds(-2).Second;
+            var earthPrintTimeAfternoon = earthPrintTime + 12;
+
+            var firstEarthTime = writer.GetHelloVenusString();
+            var firstEarthTimeSplit = firstEarthTime.Split('\n');
+    
         }
     }
 }

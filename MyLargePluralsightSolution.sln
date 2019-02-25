@@ -3,29 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28606.162
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldWriter", "HelloWordWriter\HelloWorldWriter.csproj", "{ED3BA32B-DDC9-4EA7-AB87-88266BA3EE47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldWriter", "HelloWordWriter\HelloWorldWriter.csproj", "{ED3BA32B-DDC9-4EA7-AB87-88266BA3EE47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedComponents", "SharedComponents\SharedComponents.csproj", "{7265B57C-C980-4E29-923B-0AD04965D1E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedComponents", "SharedComponents\SharedComponents.csproj", "{7265B57C-C980-4E29-923B-0AD04965D1E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEarthWriter", "HelloEarthWriter\HelloEarthWriter.csproj", "{FFD225F7-4F4D-4D2F-8CE8-41221C810B47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloEarthWriter", "HelloEarthWriter\HelloEarthWriter.csproj", "{FFD225F7-4F4D-4D2F-8CE8-41221C810B47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMarsWriter", "HelloMarsWriter\HelloMarsWriter.csproj", "{8300C192-CB99-4B5B-80E8-DD50BFEA4C61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloMarsWriter", "HelloMarsWriter\HelloMarsWriter.csproj", "{8300C192-CB99-4B5B-80E8-DD50BFEA4C61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloJupiterWriter", "HelloJupiterWriter\HelloJupiterWriter.csproj", "{7C2CF92F-3E81-4665-AE0E-C2CDCD5B84DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloJupiterWriter", "HelloJupiterWriter\HelloJupiterWriter.csproj", "{7C2CF92F-3E81-4665-AE0E-C2CDCD5B84DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMercuryWriter", "HelloMercuryWriter\HelloMercuryWriter.csproj", "{9BA28648-9EFA-442D-8160-609C2E75DA55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloMercuryWriter", "HelloMercuryWriter\HelloMercuryWriter.csproj", "{9BA28648-9EFA-442D-8160-609C2E75DA55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloVenusWriter", "HelloVenusWriter\HelloVenusWriter.csproj", "{002D70ED-843D-440C-81C2-9E83D3F36FF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSaturnWriter", "HelloSaturnWriter\HelloSaturnWriter.csproj", "{03ED9923-6078-4899-AD8A-6AE17E089982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSaturnWriter", "HelloSaturnWriter\HelloSaturnWriter.csproj", "{03ED9923-6078-4899-AD8A-6AE17E089982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloUranusWriter", "HelloUranusWriter\HelloUranusWriter.csproj", "{0E75DB1B-4B93-4CF5-99EE-9977FCA3C85C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloUranusWriter", "HelloUranusWriter\HelloUranusWriter.csproj", "{0E75DB1B-4B93-4CF5-99EE-9977FCA3C85C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloPlutoWriter", "HelloPlutoWriter\HelloPlutoWriter.csproj", "{6B1F26A5-03BD-4BF5-9F2F-DAEBFA9B77E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloPlutoWriter", "HelloPlutoWriter\HelloPlutoWriter.csproj", "{6B1F26A5-03BD-4BF5-9F2F-DAEBFA9B77E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSunWriter", "HelloSunWriter\HelloSunWriter.csproj", "{94071F3D-E8CE-474E-9853-570EF9253678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSunWriter", "HelloSunWriter\HelloSunWriter.csproj", "{94071F3D-E8CE-474E-9853-570EF9253678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyRandomWebProject", "MyRandomWebProject\MyRandomWebProject.csproj", "{960E852E-8753-4668-AD8B-1A13F47955A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRandomWebProject", "MyRandomWebProject\MyRandomWebProject.csproj", "{960E852E-8753-4668-AD8B-1A13F47955A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloVenusWriter", "HelloVenusWriter\HelloVenusWriter.csproj", "{55A80858-96F8-4015-96DB-DBBF7416D4D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,10 +57,6 @@ Global
 		{9BA28648-9EFA-442D-8160-609C2E75DA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA28648-9EFA-442D-8160-609C2E75DA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA28648-9EFA-442D-8160-609C2E75DA55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{002D70ED-843D-440C-81C2-9E83D3F36FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{002D70ED-843D-440C-81C2-9E83D3F36FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{002D70ED-843D-440C-81C2-9E83D3F36FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{002D70ED-843D-440C-81C2-9E83D3F36FF0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03ED9923-6078-4899-AD8A-6AE17E089982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{03ED9923-6078-4899-AD8A-6AE17E089982}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03ED9923-6078-4899-AD8A-6AE17E089982}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -81,6 +77,10 @@ Global
 		{960E852E-8753-4668-AD8B-1A13F47955A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{960E852E-8753-4668-AD8B-1A13F47955A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{960E852E-8753-4668-AD8B-1A13F47955A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A80858-96F8-4015-96DB-DBBF7416D4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A80858-96F8-4015-96DB-DBBF7416D4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A80858-96F8-4015-96DB-DBBF7416D4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A80858-96F8-4015-96DB-DBBF7416D4D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
